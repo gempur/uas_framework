@@ -1,4 +1,4 @@
-# frame_basic
+# uas framework laravel
 Project Pemrograman Berbasis Framework
 
 ## Sistem Perpustakaan - Laravel CRUD Application
@@ -116,6 +116,4 @@ frame_basic/
 #### Daftar Isi Rak
 ![Isi Rak](https://github.com/user-attachments/assets/c367a206-0ae5-4ba2-8761-2082ad8aa2ef)
 
-### License
 
-Open-sourced software.
