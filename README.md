@@ -38,7 +38,7 @@ Aplikasi manajemen perpustakaan yang dibangun menggunakan Laravel 12, Blade Temp
 
 1. Clone repository:
 ```bash
-git clone https://github.com/gempur/frame_basic.git
+git clone https://github.com/gempur/uas_framework.git
 cd frame_basic
 ```
 
